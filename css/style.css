@@ -448,7 +448,7 @@ i:before {
 /* Banner Area css
 ============================================================================================ */
 .banner_area {
-  background: url(../img/banner/banner-1.jpg) no-repeat scroll center center;
+  background: url(../img/fotos/f5.jpg) no-repeat scroll center center;
   background-size: cover;
   position: relative;
   min-height: 400px;
@@ -730,7 +730,7 @@ i:before {
 /* Project Area css
 ============================================================================================ */
 .project_area {
-  background: url(../img/project-bg.jpg) no-repeat fixed center center;
+  background: url(../img/fotos/f2.jpg) no-repeat fixed center center;
   background-size: cover;
   position: relative;
   z-index: 3;
@@ -1008,7 +1008,7 @@ i:before {
 /* Our Service Area css
 ============================================================================================ */
 .service_area {
-  background: url(../img/service-bg.jpg) no-repeat fixed center center;
+  background: url(../img/fotos/f4.jpg) no-repeat fixed center center;
   background-size: cover;
   position: relative;
   z-index: 2;
