@@ -13,7 +13,7 @@
 	$headers .= "MIME-Version: 1.0\r\n";
 	$headers .= "Content-Type: text/html; charset=ISO-8859-1\r\n";
 
-    $subject = "You have a message from your Creative Agency.";
+    $subject = "Nuevo mensaje de contacto de la Web TuCoachPersonal";
 
     $logo = 'http://wethemez.com/test-html/consultplus/img/logo-black.png';
     $link = '#';
